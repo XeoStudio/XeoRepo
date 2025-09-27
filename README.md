@@ -311,12 +311,3 @@ MIT — see `LICENSE` in repo. Short version: do whatever you want, keep the not
 * GitHub: [XeoStudio](https://github.com/XeoStudio)
 * Discord XeoStudio Owner: [Discord](https://discord.com/users/.9.m.)
 
-# Final notes
-
-This README is intentionally pragmatic. It documents how to run, verify, and test the tool. If you want, I can:
-
-* add a `tests/` directory with automated pytest scripts that perform the above checks;
-* add a `Makefile` to automate build + test + package steps;
-* add CI config (GitHub Actions) to run the verification on each push.
-
-Tell me which of those you want and I’ll add them next.
